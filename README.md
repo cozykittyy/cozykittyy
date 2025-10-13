@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shazimxo/shazimxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,39 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!---
+<img align="right" width="400" alt="metrics" src="left.github.svg">
+--->
+
+<h1>✨ hi there .ᐟ.ᐟ</h1>
+<samp>
+  
+  hi! i'm shazim 👋
+  <br>
+  i like music, games, coding, & more 🎵
+  <br>
+  <br>
+  moderator on LeoneMC ⚔️
+  <br>
+  getting into java and javascript 🌊
+  <br>
+  <br>
+  currently working on nothing 💤
+  <br>
+  more about me: <a href="https://shazim.org/#portfolio">[portfolio]</a> <-- Work in Progress
+  <br>
+  website: <a href="https://shazim.org">shazim.org</a> | discord: <a href="https://discord.com/users/810632160418988053">@shxzim</a>
+</samp>
+
+<img alt="discord proflie: @shxzim" src="https://discord.c99.nl/widget/theme-2/810632160418988053.png">
+
+
+
+
+<!-- 
+<img align="left" width="400" alt="metrics" src="right.github.svg">
+hi there :)
+img align="right" src="https://readme-jokes.vercel.app/api"> 
 -->
