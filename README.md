@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   getting into java and kotlin 🌊
   <br>
   <br>
-  currently working on minecraft plugins 💤
+  currently working on minecraft plugins 💫
   <br>
   more about me: <a href="https://shazim.org/#portfolio">[portfolio]</a> <-- Work in Progress
   <br>
