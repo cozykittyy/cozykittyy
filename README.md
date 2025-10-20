@@ -27,10 +27,10 @@ Here are some ideas to get you started:
   <br>
   moderator on LeoneMC ⚔️
   <br>
-  getting into java and javascript 🌊
+  getting into java and kotlin 🌊
   <br>
   <br>
-  currently working on nothing 💤
+  currently working on minecraft plugins 💤
   <br>
   more about me: <a href="https://shazim.org/#portfolio">[portfolio]</a> <-- Work in Progress
   <br>
