@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   i like music, games, coding, & more 🎵
   <br>
   <br>
-  moderator on LeoneMC for over 10 months ⚔️
+  moderator on LeoneMC for over a year ⚔️
   <br>
   getting into java and kotlin 🌊
   <br>
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
   <br>
   more about me: <a href="https://shazim.org/#portfolio">[portfolio]</a> <-- Work in Progress
   <br>
-  website: <a href="https://shazim.org">shazim.org</a> | discord: <a href="https://discord.com/users/810632160418988053">@cozykittyy</a>
+  website: <a href="https://shazim.org">shazim.org</a> | discord: <a href="https://discord.com/users/810632160418988053">@cozykittyy.</a>
 </samp>
 
-<img alt="discord proflie: @cozykittyy" src="https://discord.c99.nl/widget/theme-2/810632160418988053.png">
+<img alt="discord proflie: @cozykittyy." src="https://discord.c99.nl/widget/theme-2/810632160418988053.png">
 
 
 
